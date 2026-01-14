@@ -6,7 +6,8 @@
 //                   Written by: Maxstang, with MAJOR help from Linor and Croy9000
 //
 // =======================================================================================
-//
+#include <Arduino.h>
+
 //    This code was created to drive the widely avaliable BTS-7960 motor driver for use in
 //    Droid transitions from two to three legs and back using brushed encoderless motors. It
 //    is written to be used on an Arduino Mega.
